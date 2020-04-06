@@ -7,4 +7,6 @@ Papers referred:
 
 2) Sarkar, S., Bhattacherjee, S., & Pal, S. (2015). Extraction of respiration signal from ECG for respiratory rate estimation. Michael Faraday IET International Summit 2015.
 
-The Cubic Spline Interpolation function was derived from the 'hrv' python package by Rhenan Bartels.
+3) Dae-Geun Jang, Minsoo Hahn, Jae-Keun Jang, Farooq, U., & Seung-Hun Park. (2012). A comparison of interpolation techniques for RR interval fitting in AR spectrum estimation. 2012 IEEE Biomedical Circuits and Systems Conference (BioCAS).
+
+The Cubic Spline Interpolation function was derived from the 'hrv' python package by Rhenan Bartels. However, linear interpolation may be used as well since its assumptions about the data are fewer.
